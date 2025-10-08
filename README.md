@@ -13,7 +13,7 @@ Desafio 3 e 4 do Curso Code Girls
 * Facilita a modelagem e configuração da AWS.
 * Ferramenta muito intuitiva.
 
-###Benefícios como:
+### Benefícios como:
 * Consistência e padronização;
 * Autonomia de custos;
 * Segurança.
