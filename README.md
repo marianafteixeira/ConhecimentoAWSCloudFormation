@@ -22,6 +22,6 @@ Desafio 3 e 4 do Curso Code Girls
 * Fica no S3.
 
 ### Acesso ao CloudFormation:
-* Acessa o CloudFormation:
+* Acessa o CloudFormation;
 * Create Stack;
 * Faz upload.
